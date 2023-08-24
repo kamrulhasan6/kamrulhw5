@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.style_title_1{
+    background-color: rgb(207, 179, 118);
+    width:300px;
+   height:200px;
+   padding: 10px;
+   text-align: center;
+   margin: 20px;
+}
+#style_1{
+    color: white;
+    background-color: rgb(36, 55, 160);
+}
+.style_title_2{
+    background-color: rgb(255, 228, 196);
+    width: 550px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    
+
+}
+#title_2{
+    color: orangered;
+}
